@@ -1,1 +1,2 @@
-# bitesize-workshop-springapp
+# SpringBoot
+Spring-boot hello world app
